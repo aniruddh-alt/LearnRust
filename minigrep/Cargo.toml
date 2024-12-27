@@ -1,0 +1,8 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust-bert = "0.20.0"
+ndarray = "0.15.4"
